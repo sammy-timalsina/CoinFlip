@@ -1,0 +1,16 @@
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlip.exe
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlip.deps.json
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.json
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.dev.json
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlip.dll
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\ref\CoinFlip.dll
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlip.pdb
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.AssemblyReference.cache
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfo.cs
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlip.dll
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\ref\CoinFlip.dll
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlip.pdb
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlip.genruntimeconfig.cache

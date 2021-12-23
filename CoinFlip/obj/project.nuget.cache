@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HqBoGoU1i5DsIN1wHzrcIefdQz8TZiGKAieoJJsPnLZJ6z76+GjoiUthOQ1ItiWQJ/jDPcXt+qndYbsREMBbYg==",
+  "dgSpecHash": "5D71smuS0/vXtf7Fc+5TvV94Mkac7FIH1HECCmOvfP2yPHp3qzQ8g51v0CAg5oK3F66tZQbo1XruQQ83lmiFpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samy.timalsina\\source\\repos\\OfficeGrowthLearning\\OOPDesign\\CoinFlip\\CoinFlip.csproj",
+  "projectFilePath": "C:\\Users\\samy.timalsina\\source\\repos\\OfficeGrowthLearning\\OOPDesign\\CoinFlip\\CoinFlippingGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

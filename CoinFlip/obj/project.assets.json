@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samy.timalsina\\source\\repos\\OfficeGrowthLearning\\OOPDesign\\CoinFlip\\CoinFlip.csproj",
-      "projectName": "CoinFlip",
-      "projectPath": "C:\\Users\\samy.timalsina\\source\\repos\\OfficeGrowthLearning\\OOPDesign\\CoinFlip\\CoinFlip.csproj",
+      "projectUniqueName": "C:\\Users\\samy.timalsina\\source\\repos\\OfficeGrowthLearning\\OOPDesign\\CoinFlip\\CoinFlippingGame.csproj",
+      "projectName": "CoinFlippingGame",
+      "projectPath": "C:\\Users\\samy.timalsina\\source\\repos\\OfficeGrowthLearning\\OOPDesign\\CoinFlip\\CoinFlippingGame.csproj",
       "packagesPath": "C:\\Users\\samy.timalsina\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\samy.timalsina\\source\\repos\\OfficeGrowthLearning\\OOPDesign\\CoinFlip\\obj\\",
       "projectStyle": "PackageReference",

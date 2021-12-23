@@ -1,0 +1,16 @@
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlippingGame.exe
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlippingGame.deps.json
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlippingGame.runtimeconfig.json
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlippingGame.runtimeconfig.dev.json
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlippingGame.dll
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\ref\CoinFlippingGame.dll
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\bin\Debug\net5.0\CoinFlippingGame.pdb
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlippingGame.csproj.AssemblyReference.cache
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlippingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlippingGame.AssemblyInfoInputs.cache
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlippingGame.AssemblyInfo.cs
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlippingGame.csproj.CoreCompileInputs.cache
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlippingGame.dll
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\ref\CoinFlippingGame.dll
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlippingGame.pdb
+C:\Users\samy.timalsina\source\repos\OfficeGrowthLearning\OOPDesign\CoinFlip\obj\Debug\net5.0\CoinFlippingGame.genruntimeconfig.cache
